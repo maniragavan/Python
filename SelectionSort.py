@@ -15,7 +15,7 @@ def SelectionSort(list):
 
 
 
-
+# from Git
 list = [2, 13, 24, 5, 36, 45, 9, 65, 89,98]
 
 SelectionSort(list)
